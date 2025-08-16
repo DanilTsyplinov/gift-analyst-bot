@@ -1,0 +1,103 @@
+{
+  "connections": {},
+  "chats": {
+    "1033243158": 1033243158
+  },
+  "settings": {
+    "1033243158": {
+      "min_profit_stars": 0,
+      "min_profit_pct": 0.0
+    }
+  },
+  "last_catalog": {
+    "5170145012310081615": {
+      "id": "5170145012310081615",
+      "title": "💝",
+      "star_count": 15,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170233102089322756": {
+      "id": "5170233102089322756",
+      "title": "🧸",
+      "star_count": 15,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170250947678437525": {
+      "id": "5170250947678437525",
+      "title": "🎁",
+      "star_count": 25,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5168103777563050263": {
+      "id": "5168103777563050263",
+      "title": "🌹",
+      "star_count": 25,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170144170496491616": {
+      "id": "5170144170496491616",
+      "title": "🎂",
+      "star_count": 50,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170314324215857265": {
+      "id": "5170314324215857265",
+      "title": "💐",
+      "star_count": 50,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170564780938756245": {
+      "id": "5170564780938756245",
+      "title": "🚀",
+      "star_count": 50,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5168043875654172773": {
+      "id": "5168043875654172773",
+      "title": "🏆",
+      "star_count": 100,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170690322832818290": {
+      "id": "5170690322832818290",
+      "title": "💍",
+      "star_count": 100,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "5170521118301225164": {
+      "id": "5170521118301225164",
+      "title": "💎",
+      "star_count": 100,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    },
+    "6028601630662853006": {
+      "id": "6028601630662853006",
+      "title": "🍾",
+      "star_count": 50,
+      "total_count": null,
+      "remaining_count": null,
+      "upgrade_star_count": null
+    }
+  },
+  "last_portfolio": {}
+}
